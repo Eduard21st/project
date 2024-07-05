@@ -1,0 +1,16 @@
+C:\Users\ediks\source\repos\Test Hamming Code\bin\Debug\net5.0\Test Hamming Code.exe
+C:\Users\ediks\source\repos\Test Hamming Code\bin\Debug\net5.0\Test Hamming Code.deps.json
+C:\Users\ediks\source\repos\Test Hamming Code\bin\Debug\net5.0\Test Hamming Code.runtimeconfig.json
+C:\Users\ediks\source\repos\Test Hamming Code\bin\Debug\net5.0\Test Hamming Code.runtimeconfig.dev.json
+C:\Users\ediks\source\repos\Test Hamming Code\bin\Debug\net5.0\Test Hamming Code.dll
+C:\Users\ediks\source\repos\Test Hamming Code\bin\Debug\net5.0\ref\Test Hamming Code.dll
+C:\Users\ediks\source\repos\Test Hamming Code\bin\Debug\net5.0\Test Hamming Code.pdb
+C:\Users\ediks\source\repos\Test Hamming Code\obj\Debug\net5.0\Test Hamming Code.csproj.AssemblyReference.cache
+C:\Users\ediks\source\repos\Test Hamming Code\obj\Debug\net5.0\Test Hamming Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediks\source\repos\Test Hamming Code\obj\Debug\net5.0\Test Hamming Code.AssemblyInfoInputs.cache
+C:\Users\ediks\source\repos\Test Hamming Code\obj\Debug\net5.0\Test Hamming Code.AssemblyInfo.cs
+C:\Users\ediks\source\repos\Test Hamming Code\obj\Debug\net5.0\Test Hamming Code.csproj.CoreCompileInputs.cache
+C:\Users\ediks\source\repos\Test Hamming Code\obj\Debug\net5.0\Test Hamming Code.dll
+C:\Users\ediks\source\repos\Test Hamming Code\obj\Debug\net5.0\ref\Test Hamming Code.dll
+C:\Users\ediks\source\repos\Test Hamming Code\obj\Debug\net5.0\Test Hamming Code.pdb
+C:\Users\ediks\source\repos\Test Hamming Code\obj\Debug\net5.0\Test Hamming Code.genruntimeconfig.cache

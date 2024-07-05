@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ediks\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ediks\\.nuget\\packages"
+    ]
+  }
+}

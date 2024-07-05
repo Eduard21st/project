@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNnvE3EJskuJxYlqUO28UJzz+4NqOv9VwrCG54V+RknPKGdhrMIMdu840QhFOfbnn4C63GwxEt6DIILVoVy7ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ediks\\source\\repos\\Test Hamming Code\\Test Hamming Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ediks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
